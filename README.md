@@ -36,3 +36,6 @@ In this Module_1_Challenge, you will be given a starter code in a folder called 
 
 ## Link to deployed application
 * https://shelldan.github.io/Module_1_Challenge/
+
+## Instruction on generating URL of the deployed application
+* Once push the local repository to Github, go to 'Settings', then click 'Pages', select 'main' from Branch's dropdown menu, click 'Save'. Refresh the page and it will generate the URL on the top. 
