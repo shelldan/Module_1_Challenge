@@ -30,7 +30,7 @@ In this Module_1_Challenge, you will be given a starter code in a folder called 
 
 * Then: Client could hover the cursor to each image on the webpage, and will able to find the name of each image under its accessbility 
 
-* Then: Client could expand the <body> element and will see the heading attributes in sequential order from <h1> to <h4>
+* Then: Client could expand the body element and will see the heading attributes in sequential order from h1 to h4
 
-* Then: Client could expand the <head> element and will see a concise and descriptive title 
+* Then: Client could expand the head element and will see a concise and descriptive title 
 
