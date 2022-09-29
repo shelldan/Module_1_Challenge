@@ -35,7 +35,7 @@ In this Module_1_Challenge, you will be given a starter code in a folder called 
 * Then: Client could expand the head element and will see a concise and descriptive title 
 
 ## Link to deployed application
-* https://shelldan.github.io/Module_1_Challenge/
+* https://shelldan.github.io/code-refactor/
 
 ## Screenshot of the application
 ![](assets/images/application_page1.png)
