@@ -24,7 +24,7 @@ body {
     color: #d9dcd6;
 }
 
-/*rename semantic elemnt: nav*/
+/*rename semantic element: nav*/
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -115,7 +115,7 @@ p {
     max-width: 150px;
 }
 
-/*consolidating class selector:search-engine-ooptimization, online-reputation-management, social-media-marking*/
+/*consolidating class selector:search-engine-optimization, online-reputation-management, social-media-marking*/
 .search-engine-optimization,
 .online-reputation-management,
 .social-media-marketing {
@@ -127,14 +127,14 @@ p {
     color: #ffffff;
 }
 
-/*consolidating class selector:search-engine-ooptimization img, online-reputation-management img, social-media-marking img*/
+/*consolidating class selector:search-engine-optimization img, online-reputation-management img, social-media-marking img*/
 .search-engine-optimization img,
 .online-reputation-management img,
 .social-media-marketing img {
     max-height: 200px;
 }
 
-/*consolidating class selector:search-engine-ooptimization h2, online-reputation-management h2, social-media-marking h2*/
+/*consolidating class selector:search-engine-optimization h2, online-reputation-management h2, social-media-marking h2*/
 .search-engine-optimization h2,
 .online-reputation-management h2,
 .social-media-marketing h2 {
