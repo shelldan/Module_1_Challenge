@@ -1,42 +1,54 @@
-# Code Refactor Starter Code
-In this Module_1_Challenge, you will be given a starter code in a folder called Develop, which you'll modify to complete the challenge. 
+# Code Refactor
 
-## User story
-
-* As a marketing angency (client), I want a codebase that follows accessibility standards so that our own site is iptimized for search engines 
-
-## Acceptance Criteria
-
-* It's done when the page uses semantic HTML elements
-
-* It's done when the page follows a logical structure independent of stying and positioning for HTML elements
-
-* It's done when the page includes accessible alt attributes for image elements
-
-* It's done when the page falls in sequential order for heading attributes
-
-* It's done when the page has a concise and descriptive title 
+<p>
+    <img src="https://img.shields.io/badge/-HTML-red" />
+    <img src="https://img.shields.io/badge/-CSS-lightgrey" />
+</p>
 
 
-## Scenario-Oriented Criteria 
+## Table of Contents
+1. [Description](#description)
+2. [User Story](#user-story)
+3. [Screenshot](#screenshot)
+4. [Deployed Application](#deployed-application)
+5. [Installation](#installation)
+6. [License](#license)
+7. [Contributing](#contributing)
+8. [Test](#test)
+9. [Questions](#contact-information)
 
-* Scenario: The webpage implement accessibility standards 
+## Description
+You are given a starter code which you'll update with sematic HTML elements following a logical structure independent of styling and positioning, update the accessible alt attribute in the icon and image elements, update the heading attributes in sequential order, and update the title element to be more concise and descriptive. 
 
-* Given: Client navigates to the webpage 
+## User Story
+```
+AS A marketing agency
+I WANT a codebase that follows accessibility standards
+SO THAT our own site is optimized for search engines
+```
 
-* When: Client right click anywhere in the webpage, and hit "inspect" 
-
-* Then: Client could view HTML elements and will see they follow a logical structure indepedent of stying and positiong 
-
-* Then: Client could hover the cursor to each image on the webpage, and will able to find the name of each image under its accessbility 
-
-* Then: Client could expand the body element and will see the heading attributes in sequential order from h1 to h4
-
-* Then: Client could expand the head element and will see a concise and descriptive title 
-
-## Link to deployed application
-* https://shelldan.github.io/code-refactor/
-
-## Screenshot of the application
+## Screenshot
 ![](assets/images/application_page1.png)
 ![](assets/images/application_page2.png)
+
+## Deployed Application
+* https://shelldan.github.io/code-refactor/
+
+## Installation
+To clone the repo:
+```
+git clone https://github.com/shelldan/code-refactor.git
+``` 
+
+## License
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) 
+
+## Contributing 
+There is no contribution allowed at this time.
+
+## Test
+There is no test available at this time. 
+
+
+## Contact Information
+* GitHub Username: [shelldan](https://github.com/shelldan)
